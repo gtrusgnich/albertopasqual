@@ -17,75 +17,143 @@
 </head>
 
 <body>
-    <div id="carouselExampleSlidesOnly" class="carousel fade ap_absoluteFrame" data-bs-ride="carousel">
-        <div class="carousel-inner" style="height:100%;">
-            <div class="carousel-item  w-100"
-                style="background-image: url(images/HOME_1_bassa-min.jpg); height:100%; background-size: cover;"></div>
-            <div class="carousel-item  w-100"
-                style="background-image: url(images/HOME_2_bassa-min.jpg); height:100%; background-size: cover;"></div>
-            <div class="carousel-item active w-100"
-                style="background-image: url(images/HOME_3_bassa-min.jpg); height:100%; background-size: cover;"></div>
+    <nav class="navbar navbar-expand-lg p-3 w-100 fixed-top">
+        <div class="container-fluid">
+            <button class="navbar-toggler w-100" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="bi bi-list"></i>
+            </button>
+            <div class="collapse navbar-collapse d-lg-flex justify-content-center" id="navbarNav">
+                <ul class="navbar-nav gap-lg-5">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="pages/contatti.html">Contatti</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/biografia.html">Biografia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="pages/esposizioni.html">Esposizioni</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <div class="ap_portfolio d-grid gap-5 p-5 w-100">
-            <div class="ap_portfolio-item">
-                <img src="images/placeholder.png">
-                <p>
-                    Descrizione della prima immagine
-                </p>
+    </nav>
+    <div id="carouselExampleSlidesOnly" class="carousel fade ap_absoluteFrame" data-bs-ride="carousel"
+        style="min-height: 100vh; z-index: -99;">
+        <div class="carousel-inner" style="height:100%;">
+            <div class="carousel-item active w-100 h-100"
+                style="background-image: url(images/HOME_1_bassa-min.jpg);">
             </div>
-            <div class="ap_portfolio-item">
-                <img src="images/placeholder.png">
-                <p>
-                    Descrizione della seconda immagine
-                </p>
+            <div class="carousel-item  w-100 h-100"
+                style="background-image: url(images/HOME_2_bassa-min.jpg);">
             </div>
-            <div class="ap_portfolio-item">
-                <img src="images/placeholder.png">
-                <p>
-                    Descrizione della seconda immagine
-                </p>
+            <div class="carousel-item w-100 h-100"
+                style="background-image: url(images/HOME_3_bassa-min.jpg);">
             </div>
-            <div class="ap_portfolio-item">
-                <img src="images/placeholder.png">
-                <p>
-                    Descrizione della seconda immagine
-                </p>
+            <div class="carousel-item w-100 h-100"
+                style="background-image: url(images/HOME_4_bassa-min.jpg);">
+            </div>
+            <div class="carousel-item w-100 h-100"
+                style="background-image: url(images/HOME_5_bassa-min.jpg);">
             </div>
         </div>
     </div>
 
-
-
-    <div class="ap_absoluteFrame">
-        <nav class="navbar position-absolute navbar-expand-lg p-3 w-100">
-            <div class="container-fluid">
-                <button class="navbar-toggler w-100" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="bi bi-list"></i>
-                </button>
-                <div class="collapse navbar-collapse d-lg-flex justify-content-center" id="navbarNav">
-                    <ul class="navbar-nav gap-lg-5">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/index.html">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" href="pages/contatti.html">Contatti</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="pages/biografia.html">Biografia</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="pages/esposizioni.html">Esposizioni</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <div class="ap_logo-quote d-flex flex-column gap-5 align-items-center justify-content-center h-100">
-            <img src="images/logo.png">
+    <div class="ap_logo-quote d-flex align-items-center justify-content-center">
+        <div class="ap_blurred d-flex flex-column align-items-center gap-3" style="width: min-content;">
+            <img src="images/logo2.png">
             <div class="text-center ap_quote">
                 “In questo atto non sta la sfida dell'artista, ma la sua vocazione...”
             </div>
+        </div>
+        <div class="ap_scrollDown_icon d-flex flex-column align-items-center"
+            style="color:white; position: absolute; bottom: 0;">
+            <span>SELECTED WORKS</span>
+            <i id="chevron_down" class="bi bi-chevron-compact-down"
+                style="font-size: xx-large;"></i>
+        </div>
+    </div>
+
+    <div class="ap_portfolio d-grid gap-5 p-5 w-100">
+        <div class="ap_portfolio-item">
+            <img src="images/SW_Home_1-min.jpg">
+            <p>
+                “Alberto Pasqual viene sedotto dall'energia dell'acciaio massiccio e pesante, apparentemente
+                immodificabile, durissimo, eterno, ma le sue sculture esprimono contemporaneamente, oltre al peso e alla
+                compattezza di questa materia, anche le straordinarie possibilità del fare, la morbidezza e velocità del
+                gesto, la leggerezza della visione.”
+                <br>
+                <br>
+                Alessandra Santin
+                <br>
+                dalla mostra “Aletheia”
+                <br>
+                Oderzo 2013
+            </p>
+        </div>
+        <div class="ap_portfolio-item">
+            <img src="images/SW_Home_2-min.jpg">
+            <p>
+                “... e nel frattempo il lavoro quotidiano svolto con certosina dedizione completava e affinava un mestiere
+                    che ci ha consegnato uno dei più sapienti manipolatori del ferro che il panorama italiano abbia mai
+                    presentato.”
+                    <br>
+                    <br>
+                    Giovanni Granzotto
+                    <br>
+                    dal catalogo “Parlando della Materia”
+                    <br>
+                    mostra personale 2015
+                    <br>
+                    Studio Arte GR
+            </p>
+        </div>
+        <div class="ap_portfolio-item">
+            <img src="images/SW_Home_3-min.jpg">
+            <p>
+                “... Pasqual entra in contatto più intimo con la materia, la intende compiutamente e riesce a liberarla,
+                offrendola al nostro sguardo nel suo stato primordiale, lasciandola dialogare liberamente con noi...”
+                <br>
+                <br>
+                Alberto Pasini
+                <br>
+                dal catalogo “Parlando della Materia”
+                <br>
+                mostra personale 2015
+                <br>
+                Studio Arte GR
+            </p>
+        </div>
+        <div class="ap_portfolio-item">
+            <img src="images/SW_Home_4-min.jpg">
+            <p>
+                “Alberto Pasqual riesce a forgiare opere vive, capaci di coinvolgere ma soprattutto di interrogare lo
+                sguardo e impressionare l'anima di chi guarda.”
+                <br>
+                <br>
+                Lorena Gava
+            </p>
+        </div>
+        <div class="ap_portfolio-item">
+            <img src="images/SW_Home_5-min.jpg">
+            <p>
+                “... alcune idee cardine... si ripropongono variazioni di dimensioni e colori, non solo nei corpi solidi
+                della scultura, ma anche in bassorilievi rossi di ruggine, nei neri delle polveri di ferro depositate su carte
+                preziose, in disegni metallici, schizzati a punta di matita o di penne a biro...”
+                <br>
+                <br>
+                Alessandra Santin
+                <br>
+                dalla mostra “Aletheia”
+                <br>
+                Oderzo 2013
+            </p>
         </div>
     </div>
 </body>
