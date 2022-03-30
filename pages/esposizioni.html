@@ -17,7 +17,6 @@
 </head>
 
 <body>
-    <div class="bg-image"></div>
     <nav class="navbar navbar-expand-lg p-3 w-100 fixed-top">
         <div class="container-fluid">
             <button class="navbar-toggler w-100" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -44,7 +43,15 @@
             </div>
         </div>
     </nav>
-    <div id="expo_list" class="d-flex flex-wrap gap-2 mx-5 w-50" style="margin-top: 8rem;">
+    <div class="d-flex justify-content-center">
+        <div id="expo_list" class="list-group">
+            <h1 class="text-center">Esposizioni</h1>
+        </div>
+    </div>
+    <div class="ap_back-to-top w-100 fixed-bottom text-end">
+        <a class="btn btn-dark rounded-circle" href="#expo_list">
+            <i class="bi bi-chevron-up"></i>
+        </a>
     </div>
 </body>
 
@@ -63,26 +70,22 @@
     var list = document.getElementById("expo_list");
     $.getJSON("../esposizioni.json", (data) => {
 
-        data = data.sort((a, b) => {
-            return a["year"].localeCompare(b["year"]);
-        })
+    data = data.sort((a, b) => {
+        return a["year"].localeCompare(b["year"]);
+    })
 
-        data.forEach(el => {
+    data.forEach(el => {
             var block = `
-            <div class="card border-0" style="width: 300px; height: 200px;">
-                <div class="card-body">
-                    <div class="card-text">
-                        <i class="bi bi-calendar2-fill" "></i>
-                        ${el["year"]}
+                <div class="list-group-item list-group-item-action disabled d-flex w-100 justify-content-between">
+                    <div class="">
+                        <h5 class="mb-1" style="text-transform: uppercase;">${el["name"]}</h5>
+                        <p class="mb-1 me-5">${el["location"]}</p>
                     </div>
-                    <div class="card-text ">
-                        <i class="bi bi-bank ""></i>
-                        ${el["location"]}
-                    </div>
+                    <small>${el["year"]}</small>
                 </div>
-            </div>
             `
             $(block).appendTo(list)
         });
     })
+    
 </script>
