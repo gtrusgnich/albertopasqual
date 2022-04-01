@@ -30,7 +30,7 @@
 body {
     opacity: 0;
     font-family: "MyFont";
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(10, 10, 10);
     animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
@@ -247,7 +247,7 @@ a.ap_contact-item:hover{
 .ap_images > div.grid{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     gap: 2rem;
     margin-bottom: 6rem;
 }
