@@ -287,6 +287,10 @@ a.ap_contact-item:hover{
     padding: 1rem 1rem;
 }
 
+.lightbox .lb-image{
+    border: none;
+}
+
 @media screen and (max-width: 1450px) {
     .ap_contacts{
         flex-flow: column;
