@@ -33,7 +33,7 @@
                         <a class="nav-link" href="gallery.html">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="contatti.html">Contatti</a>
+                        <a class="nav-link" href="contatti.html">Contatti</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="biografia.html">Biografia</a>
@@ -42,64 +42,43 @@
                         <a class="nav-link" href="esposizioni.html">Esposizioni</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="extra.html">Extra</a>
+                        <a class="nav-link active" href="extra.html">Extra</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
-    <div class="ap_contacts d-flex flex-wrap justify-content-center align-items-center">
-        <div class="card border-0 shadow ap_blurred">
-            <div class="card-body m-2">
-                <div class="card-title">
-                    <h2>SOCIAL</h2>
-                </div>
-                <div class="card-text d-flex flex-column gap-2 mt-4">
-                    <a class="ap_contact-item" href="https://www.facebook.com/albertopasqualartista/">
-                        <i class="bi bi-facebook"></i>
-                        <span>@albertopasqualartista</span>
-                    </a>
-                    <a class=" ap_contact-item" href="https://www.instagram.com/pasqual.alberto/">
-                        <i class="bi bi-instagram"></i>
-                        <span>@pasqual.alberto</span>
-                    </a>
-                </div>
-            </div>
+    
+    <div class="ap_images d-flex flex-column align-items-center">
+        <div style="width: 250px; height: 250px; border-radius: 250px; background-color: white; margin-bottom: 2rem;"></div>
+        <div class="grid">
+            <a type="button" class="btn btn-dark btn-lg" href="//www.youtube.com/watch?v=NnzLwNilKEk">
+                <i class="bi bi-youtube text"></i>
+                ALBERTO PASQUAL ARTISTA by Davide Dimitri
+            </a>
         </div>
-        <div class="card border-0 shadow ap_blurred">
-            <div class="card-body m-2">
-                <div class="card-title">
-                    <h2>RIFERIMENTI</h2>
-                </div>
-                <div class="card-text d-flex flex-column gap-2 mt-4">
-                    <span class="ap_contact-item">
-                        <i class="bi bi-envelope-fill"></i>
-                        info@albertopasqual.it
-                    </span>
-                    <span class="ap_contact-item">
-                        <i class="bi bi-phone-fill"></i>
-                        +39 339 21 56 600
-                    </span>
-                    <span class="ap_contact-item">
-                        <i class="bi bi-geo-alt-fill"></i>
-                        VIALE TRENTO, 116 - SACILE (PN)
-                    </span>
-                </div>
-            </div>
-        </div>
-
-
     </div>
+    
 </body>
 
 </html>
 
 <style>
-    body {
-        background: url(../images/Schermata-contatti-min.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+body {
+    background: url(../images/EXTRA_SCHERMATA_bassa.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.ap_images > .grid > a > i{
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 675px) {
+    .ap_images > div.grid{
+        gap: 0;
     }
+}
 </style>
