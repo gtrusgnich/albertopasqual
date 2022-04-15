@@ -73,7 +73,7 @@
     $.getJSON("../assets/esposizioni.json", (data) => {
 
     data = data.sort((a, b) => {
-        return a["year"].localeCompare(b["year"]);
+        return b["year"].localeCompare(a["year"]);
     })
 
     data.forEach(el => {
