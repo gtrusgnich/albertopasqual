@@ -255,6 +255,10 @@ a.ap_contact-item:hover{
     max-height: 450px;
 }
 
+.ap_images > div.grid > a > div.img_name_mobile{
+    display: none;
+}
+
 .lb-outerContainer{
     background-color: transparent;
 }
@@ -307,6 +311,10 @@ a.ap_contact-item:hover{
         width: 400px;
     }
 
+    .ap_portfolio > .ap_portfolio-item{
+        margin: 0.5rem 0.5rem 0 0.5rem;
+    }
+
     .ap_portfolio > .ap_portfolio-item > p{
        display: none; 
     }
@@ -322,6 +330,23 @@ a.ap_contact-item:hover{
 
     .ap_images > div.grid > a{
         pointer-events: none;
+        position: relative;
+        display: flex;
+        align-items: flex-end;
+        margin: 0.5rem 0.5rem 0 0.5rem;
+    }
+
+    .ap_images > div.grid > a > div.img_name_mobile{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        text-align: center;
+        padding: 1rem;
+        width: 100%;
+        color: #d6d6d6;
+        height: 7rem;
+        background-image: linear-gradient(to top, #000000, #ffffff00);
     }
 }
 
@@ -355,5 +380,21 @@ a.ap_contact-item:hover{
 
     .ap_contacts .ap_contact-item, .ap_contacts .ap_contact-item > span{
         font-size: medium;
+    }
+
+    .ap_button_nav{
+        top: 5rem !important;
+    }
+
+    .ap_button_nav >.btn-group{
+        flex-wrap: wrap;
+        margin: 0 1rem;
+        border-radius: 0.2rem;
+        overflow: hidden;
+    }
+
+    .ap_button_nav > .btn-group > a.btn {
+        width: 7rem;
+        border-radius: 0;
     }
 }

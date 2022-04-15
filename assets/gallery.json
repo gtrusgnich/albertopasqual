@@ -1,0 +1,347 @@
+[
+    {
+        "key": "Ferro",
+        "opere": [
+            {
+                "name": "Origine, 30x24x18, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_1.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_1.jpg"
+            },
+            {
+                "name": "Origine, diversa angolazione, 30x24x18, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_2.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_2.jpg"
+            },
+            {
+                "name": "Flusso, 30x24,18, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_3.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_3.jpg"
+            },
+            {
+                "name": "Flusso, diversa angolazione, 30x24,18, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_4.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_4.jpg"
+            },
+            {
+                "name": "Flusso (particolare), 30x24,18, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_5.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_5.jpg"
+            },
+            {
+                "name": "Flusso (particolare), 30x24,18, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_6.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_6.jpg"
+            },
+            {
+                "name": "Incontro, 25x25x14, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_6a.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_6a.jpg"
+            },
+            {
+                "name": "Cellula Vitale, 30x33x7, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_7.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_7.jpg"
+            },
+            {
+                "name": "Cellula Vitale, diversa angolazione, 30x33x7, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_8.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_8.jpg"
+            },
+            {
+                "name": "Opus, 26x24x19, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_9.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_9.jpg"
+            },
+            {
+                "name": "Opus, diversa angolazione, 26x24x19, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_10.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_10.jpg"
+            },
+            {
+                "name": "Origine 2, 28x29x11, ferro, 2022",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_10a.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_10a.jpg"
+            },
+            {
+                "name": "Origine 2 (particolare), 28x29x11, ferro, 2022",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_10b.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_10b.jpg"
+            },
+            {
+                "name": "Ecce Homo, 33x26x9, ferro, 2022",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_11.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_11.jpg"
+            },
+            {
+                "name": "Ecce Homo (particolare), 33x26x9, ferro, 2022",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_12.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_12.jpg"
+            },
+            {
+                "name": "Sfondamento, 15x35,5x9, ferro, 2017",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_13.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_13.jpg"
+            },
+            {
+                "name": "Sfondamento, diversa angolazione, 15x35,5x9, ferro, 2017",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_14.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_14.jpg"
+            },
+            {
+                "name": "Annuncio, 20,5x30,14,5, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_15.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_15.jpg"
+            },
+            {
+                "name": "Inciso, 40x26x40, acciaio strutturale, 2018",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_16.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_16.jpg"
+            },
+            {
+                "name": "Inciso, diversa angolazione, 40x26x40, acciaio strutturale, 2018",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_17.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_17.jpg"
+            },
+            {
+                "name": "Progetto (tre lastre scottate con scultura), cm 74x160x8, ferro, 2012",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_18.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_18.jpg"
+            },
+            {
+                "name": "Vestigia, 17,5x20x7, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_19.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_19.jpg"
+            },
+            {
+                "name": "Vestigia (particolare), 17,5x20x7, ferro, 2019",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_20.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_20.jpg"
+            },
+            {
+                "name": "Nascita (In Nuce), 33,5x28x14, ferro, 2022 ",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_21.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_21.jpg"
+            },
+            {
+                "name": "Nascita (In Nuce) (Particolare), 33,5x28x14, ferro, 2022",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_22.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_22.jpg"
+            }
+        ]
+    },
+    {
+        "key": "Lamiera",
+        "opere":[
+            {
+                "name": "Imprevisto (particolare), 100x70, acciaio corten con nastro adesivo bruciato, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera1.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera1.jpg"
+            },
+            {
+                "name": "Scenario, 150x200, acciaio corten, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera2.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera2.jpg"
+            },
+            {
+                "name": "Panorama Acqueo, 150x100, acciaio corten, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera3.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera3.jpg"
+            },
+            {
+                "name": "Panorama Acqueo (particolare), 150x100, acciaio corten, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera4.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera4.jpg"
+            },
+            {
+                "name": "Scenario (particolare), 150x200, acciaio corten, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera5.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera5.jpg"
+            },
+            {
+                "name": "Panorama Acqueo (particolare), 150x100, acciaio corten, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera6.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera6.jpg"
+            },
+            {
+                "name": "Panorama Acqueo (particolare), 150x100, acciaio corten, 2020",
+                "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera7.jpg",
+                "highPath": "../images/gallery/lamiera/gallery_bassa_lamiera7.jpg"
+            }
+        ]
+    },
+    {
+        "key": "Cemento",
+        "opere":[
+            {
+                "name": "Enigma, 100x100, emaco, 2019",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_1.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_1.jpg"
+            },
+            {
+                "name": "Enigma (particolare), 100x100, emaco, 2019",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_2.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_2.jpg"
+            },
+            {
+                "name": "Normale, 100x100, emaco, 2015",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_3.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_3.jpg"
+            },
+            {
+                "name": "Normale (particolare), 100x100, emaco, 2015",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_4.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_4.jpg"
+            },
+            {
+                "name": "Senza Titolo, 32x32, emaco, 2019",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_5.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_5.jpg"
+            },
+            {
+                "name": "Senza Titolo 2, 32x32, emaco, 2019",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_6.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_6.jpg"
+            },
+            {
+                "name": "Probo, 100x100, emaco, 2015",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_7.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_7.jpg"
+            },
+            {
+                "name": "Senza Titolo (particolare), 32x32, emaco, 2019",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_8.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_8.jpg"
+            },
+            {
+                "name": "Cattedrale, 125x75, emaco e acidi, 2013",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_9.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_9.jpg"
+            },
+            {
+                "name": "Cattedrale (particolare), 125x75, emaco e acidi, 2013",
+                "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_10.jpg",
+                "highPath": "../images/gallery/cemento/gallery_bassa_cemento_10.jpg"
+            }
+        ]
+    },
+    {
+        "key": "Plastiche",
+        "opere":[
+            {
+                "name": "Presenza, 71,5x20x23, materiale plastico, 2017",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_1.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_1.jpg"
+            },
+            {
+                "name": "Presenza – Assenza, 215x40x40, materiale plastico, 2020",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_2.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_2.jpg"
+            },
+            {
+                "name": "Relazione, 170x50x30, materiale plastico, 2020",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_3.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_3.jpg"
+            },
+            {
+                "name": "Presenza (particolare), 71,5x20x23, materiale plastico, 2017",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_4.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_4.jpg"
+            },
+            {
+                "name": "Presenza – Assenza (particolare), 215x40x40, materiale plastico, 2020",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_5.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_5.jpg"
+            },
+            {
+                "name": "Presenza – Assenza (particolare), 215x40x40, materiale plastico, 2020",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_6.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_6.jpg"
+            },
+            {
+                "name": "Linfa (concetto di esplosione riflessa), 74x144x9, policarbonato alveolare e acciaio inox, 2019",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_7.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_7.jpg"
+            },
+            {
+                "name": "Linfa (concetto di esplosione riflessa, particolare), 74x144x9, policarbonato alveolare e acciaio inox, 2019",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_8.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_8.jpg"
+            },
+            {
+                "name": "Embrionale (concetto di esplosione riflessa), 58x58x8, policarbonato alveolare e acciaio inox, 2020",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_9.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_9.jpg"
+            },
+            {
+                "name": "Embrionale (concetto di esplosione riflessa, particolare), 58x58x8, policarbonato alveolare e acciaio inox, 2020",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_10.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_10.jpg"
+            },
+            {
+                "name": "Nero Verticale (concetto di esplosione riflessa), 76x76x8, policarbonato alveolare, 2019",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_11.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_11.jpg"
+            },
+            {
+                "name": "Nero Verticale (concetto di esplosione riflessa, particolare), 76x76x8, policarbonato alveolare, 2019",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_12.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_12.jpg"
+            }
+        ]
+    },
+    {
+        "key": "Grafica",
+        "opere":[
+            {
+                "name": "Orizzonte, 125x220, carborundum, 2021",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica-min.jpg"
+            },
+            {
+                "name": "Orizzonte (particolare), 125x220, carborundum, 2021",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica2.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica2-min.jpg"
+            },
+            {
+                "name": "S.T. 1, 56x56, carborundum, 2022",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica3.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica3-min.jpg"
+            },
+            {
+                "name": "S.T. 2, 56x56, carborundum, 2022",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica4.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica4-min.jpg"
+            },
+            {
+                "name": "S.T. 3, 56x56, carborundum, 2022",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica5.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica5-min.jpg"
+            },
+            {
+                "name": "Sarcofago di Atella (Museo Nazionale di Melfi), 125x125, carborundum, 2022",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica6.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica6-min.jpg"
+            },
+            {
+                "name": "Scudo di Achille (Museo Nazionale di Melfi), 125x125, carborundum, 2022",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica7.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica7-min.jpg"
+            },
+            {
+                "name": "Scudo di Achille (Museo Nazionale di Melfi, particolare), 125x125, carborundum, 2022",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica8.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica8-min.jpg"
+            },
+            {
+                "name": "Inciso (studio per scultura), 125x160, carborundum, 2021",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica9.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica9.jpg"
+            },
+            {
+                "name": "Superficie, 125x125, carborundum, 2021",
+                "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica10.jpg",
+                "highPath": "../images/gallery/grafica/gallery_bassa_grafica10.jpg"
+            }
+        ]
+    }
+]
