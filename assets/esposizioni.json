@@ -510,12 +510,42 @@
     },
     {
         "year": "2020",
-        "name": "É  per Sempre",
-        "location": " Alberto Pasqual e Mara Fabbro, Antico ospedale dei Battuti, San Vito al Tagliamento, Pordenone, a cura di Alessandra Santin."
+        "name": "É per Sempre",
+        "location": "Alberto Pasqual e Mara Fabbro, Antico ospedale dei Battuti, San Vito al Tagliamento, Pordenone, a cura di Alessandra Santin."
     },
     {
         "year": "2021",
-        "name": "É  per Sempre",
+        "name": "É per Sempre",
         "location": "Alberto Pasqual e Mara Fabbro, Palazzo Contarini del Bovolo, Venezia, a cura di Alessandra Santin."
+    },
+    {
+        "year": "2023",
+        "name": "\"Genesi\"",
+        "location": "Alberto ed Eleonora Pasqual, Casa del Musichiere, Moriago della Battaglia, Treviso, a cura di Lorena Gava"
+    },
+    {
+        "year": "2024",
+        "name": "\"Altrove\"",
+        "location": "Monumento centro documentazione e catalogazione magredi, San Quirino, Pordenone"
+    },
+    {
+        "year": "2023",
+        "name": "\"13+1\"",
+        "location": "Immagini da una collezione, Udine, a cure di Lorenzo Vale"
+    },
+    {
+        "year": "2024",
+        "name": "Contrapposizioni",
+        "location": "Villa Frova, a cura di Giovanna Carlot e Alessandra Santin"
+    },
+    {
+        "year": "2024",
+        "name": "Intreccio",
+        "location": "Spazio Pradella, Polcenigo, Pordenone, a cura di Giovanna Carlot e Alessandra Santin"
+    },
+    {
+        "year": "2024",
+        "name": "\"Oltre\"",
+        "location": "Chiesa di San Gregorio, Sacile, Pordenne, a cura di Cristina Falsarella e Maria Balliana"
     }
 ]

@@ -126,6 +126,16 @@
                 "name": "Nascita (In Nuce) (Particolare), 33,5x28x14, ferro, 2022",
                 "lowPath": "../images/gallery_low/ferro/gallery_bassa_22.jpg",
                 "highPath": "../images/gallery/ferro/gallery_bassa_22.jpg"
+            },
+            {
+                "name": "Equilibrio centrico, 115x8x5, acciaio corten, 2024",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_23.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_23.jpg"
+            },
+            {
+                "name": "Equilibrio centrico (Particolare), 115x8x5, acciaio corten, 2024",
+                "lowPath": "../images/gallery_low/ferro/gallery_bassa_24.jpg",
+                "highPath": "../images/gallery/ferro/gallery_bassa_24.jpg"
             }
         ]
     },
@@ -286,6 +296,21 @@
                 "name": "Nero Verticale (concetto di esplosione riflessa, particolare), 76x76x8, policarbonato alveolare, 2019",
                 "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_12.jpg",
                 "highPath": "../images/gallery/plastica/gallery_bassa_plastica_12.jpg"
+            },
+            {
+                "name": "Legami, 76x76x8, materiale plastico fuso, lastra in acciaio inox supermirror, legno e teca in plexiglass, 2024",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_14.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_14.jpg"
+            },
+            {
+                "name": "Respiro, 47x45x30, materiale plastico da imballo fuso, 2024",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_15.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_15.jpg"
+            },
+            {
+                "name": "Elemento vitale, 35x35x22, materiale plastico da imballo fuso, 2025",
+                "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_13.jpg",
+                "highPath": "../images/gallery/plastica/gallery_bassa_plastica_13.jpg"
             }
         ]
     },
