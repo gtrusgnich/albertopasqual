@@ -1,0 +1,184 @@
+[
+    {
+        "title": "ALTROVE",
+        "description": "Primo premio concorso nazionale, Scultura monumento per il centro di documentazione e catalogazione dei Magredi",
+        "location": "Localita San Quirino (PN)",
+        "materials": "Acciaio strutturale, Corten, Cemento, Sasso",
+        "size": "Mt. 10 x Mt. 10 x Mt. 2",
+        "year": "",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/altrove/IMG_7800.JPG",
+                "highPath": "../images/gallery/installazioni/altrove/IMG_7800.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/altrove/IMG_7805.JPG",
+                "highPath": "../images/gallery/installazioni/altrove/IMG_7805.JPG"
+            }
+        ]
+    },
+    {
+        "title": "CONCETTO",
+        "description": "Scultura monumento per Piazza XX Settembre (PN)",
+        "location": "Pordenone (PN)",
+        "materials": "Acciaio strutturale",
+        "size": "Altezza 400cm",
+        "year": "2020",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/concetto/IMG_7820.JPG",
+                "highPath": "../images/gallery/installazioni/concetto/IMG_7820.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/concetto/IMG_7821.JPG",
+                "highPath": "../images/gallery/installazioni/concetto/IMG_7821.JPG"
+            }
+        ]
+    },
+    {
+        "title": "VIBRAZIONE",
+        "description": "Scultura monumento per il 50° di fondazione del Coro Contrà",
+        "location": "Camolli (PN)",
+        "materials": "Acciaio Corten, Vetro, Marmo di Carrara",
+        "size": "Altezza 380cm",
+        "year": "2025",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/coro_contra/IMG_7770.JPG",
+                "highPath": "../images/gallery/installazioni/coro_contra/IMG_7770.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/coro_contra/IMG_7780.JPG",
+                "highPath": "../images/gallery/installazioni/coro_contra/IMG_7780.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/coro_contra/IMG_7782.JPG",
+                "highPath": "../images/gallery/installazioni/coro_contra/IMG_7782.JPG"
+            }
+        ]
+    },
+    {
+        "title": "NELLE TUE MANI CONSEGNO IL MIO SPIRITO, CHRISTUS TRIUMPHANS",
+        "description": "",
+        "location": "Castello di Polcenigo (PN)",
+        "materials": "Acciaio strutturale, ferro forgiato,",
+        "size": "Crocifisso cm. 350 x 250 x 80, Installazione totale cm. 690 x 250 x 115",
+        "year": "2021",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/cristo/IMG_7836.JPG",
+                "highPath": "../images/gallery/installazioni/cristo/IMG_7836.JPG"
+            }
+        ]
+    },
+    {
+        "title": "ETEROTOPIA",
+        "description": "Scultura monumento presso Chiesa della Santissima,",
+        "location": "Polcenigo (PN)",
+        "materials": "Acciaio strutturale",
+        "size": "Altezza 650cm",
+        "year": "2025",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/eterotopia/IMG_7830.JPG",
+                "highPath": "../images/gallery/installazioni/eterotopia/IMG_7830.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/eterotopia/IMG_7830.JPG",
+                "highPath": "../images/gallery/installazioni/eterotopia/IMG_7830.JPG"
+            }
+        ]
+    },
+    {
+        "title": "MONUMENTO A MARCO PANTANI",
+        "description": "Primo premio concorso nazionale",
+        "location": "Salita del Mortirolo, Mazzo di Valtellina (SO)",
+        "materials": "Acciaio Corten, cemento 'EMACO'",
+        "size": "200cm x 800cm",
+        "year": "2006",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/pantani/BASSO_PANTANI_5787.jpg",
+                "highPath": "../images/gallery/installazioni/pantani/BASSO_PANTANI_5787.jpg"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/pantani/PICT4105.JPG",
+                "highPath": "../images/gallery/installazioni/pantani/PICT4105.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/pantani/PICT4142.JPG",
+                "highPath": "../images/gallery/installazioni/pantani/PICT4142.JPG"
+            }
+        ]
+    },
+    {
+        "title": "RICORDO",
+        "description": "Monumento ai caduti delle guerre",
+        "location": "Piazza Marconi, San Fior (TV)",
+        "materials": "Bronzo",
+        "size": "Diametro cm: 100 x 25",
+        "year": "2022",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/ricordo/IMG_7794.JPG",
+                "highPath": "../images/gallery/installazioni/ricordo/IMG_7794.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/ricordo/IMG_7796.JPG",
+                "highPath": "../images/gallery/installazioni/ricordo/IMG_7796.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/ricordo/IMG_7799.JPG",
+                "highPath": "../images/gallery/installazioni/ricordo/IMG_7799.JPG"
+            }
+        ]
+    },
+    {
+        "title": "PIERPAOLO PASOLINI",
+        "description": "Targa in bronzo a ricordo di Pasolini a 40 anni dalla morte",
+        "location": "SAcile (PN), casa in cui ha abitato dal 1929 al 1932",
+        "materials": "",
+        "size": "36cm x 50cm",
+        "year": "2015",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/pasolini/IMG_7841.JPG",
+                "highPath": "../images/gallery/installazioni/pasolini/IMG_7841.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/pasolini/IMG_7843.JPG",
+                "highPath": "../images/gallery/installazioni/pasolini/IMG_7843.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/pasolini/DSCN2871.JPG",
+                "highPath": "../images/gallery/installazioni/pasolini/DSCN2871.JPG"
+            }
+        ]
+    },
+    {
+        "title": "MONUMENTO AI CADUTI DELLA POLIZIA DI STATO",
+        "description": "",
+        "location": "Cusano di Zoppola (PN)",
+        "materials": "Acciaio strutturale, Corten, Pietra Piasentina",
+        "size": "400cm",
+        "year": "2017",
+        "images": [
+            {
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/IMG_7812.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/IMG_7812.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/IMG_7813.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/IMG_7813.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/IMG_7818.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/IMG_7818.JPG"
+            },
+            {
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/DSC_6338.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/DSC_6338.JPG"
+            }
+        ]
+    }
+]
