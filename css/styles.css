@@ -154,6 +154,17 @@ body {
     color: rgb(209, 209, 209);
 }
 
+.nav-item.dropdown > .dropdown-menu {
+    background-color: rgb(10, 10, 10);
+}
+
+.nav-item.dropdown > .dropdown-menu  .dropdown-item {
+    color: rgb(237, 237, 237);
+}
+.nav-item.dropdown > .dropdown-menu  .dropdown-item:hover {
+    background-color: rgb(29, 29, 29);
+}
+
 .carousel.fade {
 opacity: 1;
 }
@@ -230,7 +241,7 @@ a.ap_contact-item:hover{
 }
 
 .ap_images{
-    margin: 9rem 2rem 2rem 2rem;
+    margin: 6rem 2rem 2rem 2rem;
 }
 
 .ap_images > h2{

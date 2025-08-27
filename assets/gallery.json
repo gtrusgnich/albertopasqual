@@ -141,7 +141,7 @@
     },
     {
         "key": "Lamiera",
-        "opere":[
+        "opere": [
             {
                 "name": "Imprevisto (particolare), 100x70, acciaio corten con nastro adesivo bruciato, 2020",
                 "lowPath": "../images/gallery_low/lamiera/gallery_bassa_lamiera1.jpg",
@@ -181,7 +181,7 @@
     },
     {
         "key": "Quadri Materici",
-        "opere":[
+        "opere": [
             {
                 "name": "Enigma, 100x100, emaco, 2019",
                 "lowPath": "../images/gallery_low/cemento/gallery_bassa_cemento_1.jpg",
@@ -236,7 +236,7 @@
     },
     {
         "key": "Plastiche",
-        "opere":[
+        "opere": [
             {
                 "name": "Presenza, 71,5x20x23, materiale plastico, 2017",
                 "lowPath": "../images/gallery_low/plastica/gallery_bassa_plastica_1.jpg",
@@ -316,7 +316,7 @@
     },
     {
         "key": "Grafica",
-        "opere":[
+        "opere": [
             {
                 "name": "Orizzonte, 125x220, carborundum, 2021",
                 "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica.jpg",
@@ -366,6 +366,126 @@
                 "name": "Superficie, 125x125, carborundum, 2021",
                 "lowPath": "../images/gallery_low/grafica/gallery_bassa_grafica10.jpg",
                 "highPath": "../images/gallery/grafica/gallery_bassa_grafica10.jpg"
+            }
+        ]
+    },
+    {
+        "key": "Installazioni",
+        "opere": [
+            {
+                "name": "ALTROVE, Primo premio concorso nazionale, Scultura monumento per il centro di documentazione e catalogazione dei Magredi, Localita San Quirino (PN), Acciaio strutturale, Corten, Cemento, Sasso, Dimensione: Mt. 10 x Mt. 10 x Mt. 2",
+                "lowPath": "../images/gallery_low/installazioni/altrove/IMG_7800.JPG",
+                "highPath": "../images/gallery/installazioni/altrove/IMG_7800.JPG"
+            },
+            {
+                "name": "ALTROVE, Primo premio concorso nazionale, Scultura monumento per il centro di documentazione e catalogazione dei Magredi,, Localita San Quirino (PN), Acciaio strutturale, Corten, Cemento, Sasso, Dimensione: Mt. 10 x Mt. 10 x Mt. 2",
+                "lowPath": "../images/gallery_low/installazioni/altrove/IMG_7805.JPG",
+                "highPath": "../images/gallery/installazioni/altrove/IMG_7805.JPG"
+            },
+            {
+                "name": "CONCETTO, Scultura monumento per Piazza XX Settembre (PN), Acciaio strutturale, 2020, Altezza cm: 400",
+                "lowPath": "../images/gallery_low/installazioni/concetto/IMG_7820.JPG",
+                "highPath": "../images/gallery/installazioni/concetto/IMG_7820.JPG"
+            },
+            {
+                "name": "CONCETTO, Scultura monumento per Piazza XX Settembre (PN), Acciaio strutturale, 2020, Altezza cm: 400",
+                "lowPath": "../images/gallery_low/installazioni/concetto/IMG_7821.JPG",
+                "highPath": "../images/gallery/installazioni/concetto/IMG_7821.JPG"
+            },
+            {
+                "name": "VIBRAZIONE, Scultura monumento per il 50° di fondazione del Coro Contrà Camolli (PN), Acciaio Corten, vetro, marmo di Carrara, 2025, Altezza cm: 380",
+                "lowPath": "../images/gallery_low/installazioni/coro_contra/IMG_7770.JPG",
+                "highPath": "../images/gallery/installazioni/coro_contra/IMG_7770.JPG"
+            },
+            {
+                "name": "VIBRAZIONE, Scultura monumento per il 50° di fondazione del Coro Contrà Camolli (PN), Acciaio Corten, vetro, marmo di Carrara, 2025, Altezza cm: 380",
+                "lowPath": "../images/gallery_low/installazioni/coro_contra/IMG_7780.JPG",
+                "highPath": "../images/gallery/installazioni/coro_contra/IMG_7780.JPG"
+            },
+            {
+                "name": "VIBRAZIONE, Scultura monumento per il 50° di fondazione del Coro Contrà Camolli (PN), Acciaio Corten, vetro, marmo di Carrara, 2025, Altezza cm: 380",
+                "lowPath": "../images/gallery_low/installazioni/coro_contra/IMG_7782.JPG",
+                "highPath": "../images/gallery/installazioni/coro_contra/IMG_7782.JPG"
+            },
+            {
+                "name": "NELLE TUE MANI CONSEGNO IL MIO SPIRITO, CHRISTUS TRIUMPHANS, Acciaio strutturale, ferro forgiato, Castello di Polcenigo (PN), Crocifisso 1990, Crocifisso cm. 350 x 250 x 80, Installazione totale cm. 690 x 250 x 115 (2021)",
+                "lowPath": "../images/gallery_low/installazioni/cristo/IMG_7836.JPG",
+                "highPath": "../images/gallery/installazioni/cristo/IMG_7836.JPG"
+            },
+            {
+                "name": "ETEROTOPIA, Scultura monumento presso Chiesa della Santissima, Polcenigo (PN), Acciaio strutturale, 2025, Altezza cm: 650",
+                "lowPath": "../images/gallery_low/installazioni/eterotopia/IMG_7830.JPG",
+                "highPath": "../images/gallery/installazioni/eterotopia/IMG_7830.JPG"
+            },
+            {
+                "name": "ETEROTOPIA, Scultura monumento presso Chiesa della Santissima, Polcenigo (PN), Acciaio strutturale, 2025, Altezza cm: 650",
+                "lowPath": "../images/gallery_low/installazioni/eterotopia/IMG_7830.JPG",
+                "highPath": "../images/gallery/installazioni/eterotopia/IMG_7830.JPG"
+            },
+            {
+                "name": "MONUMENTO A MARCO PANTANI, Primo premio concorso nazionale, Salita del Mortirolo, Mazzo di Valtellina (SO), Acciaio Corten, cemento “EMACO”, cm: 200 x 800, 2006",
+                "lowPath": "../images/gallery_low/installazioni/pantani/BASSO_PANTANI_5787.jpg",
+                "highPath": "../images/gallery/installazioni/pantani/BASSO_PANTANI_5787.jpg"
+            },
+            {
+                "name": "MONUMENTO A MARCO PANTANI, Primo premio concorso nazionale, Salita del Mortirolo, Mazzo di Valtellina (SO), Acciaio Corten, cemento “EMACO”, cm: 200 x 800, 2006",
+                "lowPath": "../images/gallery_low/installazioni/MONUMENTO A MARCO PANTANI, Primo premio concorso nazionale, Salita del Mortirolo, Mazzo di Valtellina (SO), Acciaio Corten, cemento “EMACO”, cm: 200 x 800, 2006/PICT4105.JPG",
+                "highPath": "../images/gallery/installazioni/pantani/PICT4105.JPG"
+            },
+            {
+                "name": "MONUMENTO A MARCO PANTANI, Primo premio concorso nazionale, Salita del Mortirolo, Mazzo di Valtellina (SO), Acciaio Corten, cemento “EMACO”, cm: 200 x 800, 2006",
+                "lowPath": "../images/gallery_low/installazioni/pantani/PICT4142.JPG",
+                "highPath": "../images/gallery/installazioni/pantani/PICT4142.JPG"
+            },
+            {
+                "name": "RICORDO, Monumento ai caduti delle guerre, Piazza Marconi, San Fior (TV), Bronzo, Diametro cm: 100 x 25, 2022",
+                "lowPath": "../images/gallery_low/installazioni/ricordo/IMG_7794.JPG",
+                "highPath": "../images/gallery/installazioni/ricordo/IMG_7794.JPG"
+            },
+            {
+                "name": "RICORDO, Monumento ai caduti delle guerre, Piazza Marconi, San Fior (TV), Bronzo, Diametro cm: 100 x 25, 2022",
+                "lowPath": "../images/gallery_low/installazioni/ricordo/IMG_7796.JPG",
+                "highPath": "../images/gallery/installazioni/ricordo/IMG_7796.JPG"
+            },
+            {
+                "name": "RICORDO, Monumento ai caduti delle guerre, Piazza Marconi, San Fior (TV), Bronzo, Diametro cm: 100 x 25, 2022",
+                "lowPath": "../images/gallery_low/installazioni/ricordo/IMG_7799.JPG",
+                "highPath": "../images/gallery/installazioni/ricordo/IMG_7799.JPG"
+            },
+            {
+                "name": "PIERPAOLO PASOLINI, Targa in bronzo a ricordo di Pasolini a 40 anni dalla morte, Sacile (PN), casa in cui ha abitato dal 1929 al 1932, Dimensioni cm: 36 x 50, 2015",
+                "lowPath": "../images/gallery_low/installazioni/pasolini/IMG_7841.JPG",
+                "highPath": "../images/gallery/installazioni/pasolini/IMG_7841.JPG"
+            },
+            {
+                "name": "PIERPAOLO PASOLINI, Targa in bronzo a ricordo di Pasolini a 40 anni dalla morte, Sacile (PN), casa in cui ha abitato dal 1929 al 1932, Dimensioni cm: 36 x 50, 2015",
+                "lowPath": "../images/gallery_low/installazioni/pasolini/IMG_7843.JPG",
+                "highPath": "../images/gallery/installazioni/pasolini/IMG_7843.JPG"
+            },
+            {
+                "name": "PIERPAOLO PASOLINI, Targa in bronzo a ricordo di Pasolini a 40 anni dalla morte, Sacile (PN), casa in cui ha abitato dal 1929 al 1932, Dimensioni cm: 36 x 50, 2015",
+                "lowPath": "../images/gallery_low/installazioni/pasolini/DSCN2871.JPG",
+                "highPath": "../images/gallery/installazioni/pasolini/DSCN2871.JPG"
+            },
+            {
+                "name": "MONUMENTO AI CADUTI DELLA POLIZIA DI STATO, Cusano di Zoppola (PN), Acciaio strutturale, Corten, Pietra Piasentina, Dimensioni cm: 400 , 2017",
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/IMG_7812.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/IMG_7812.JPG"
+            },
+            {
+                "name": "MONUMENTO AI CADUTI DELLA POLIZIA DI STATO, Cusano di Zoppola (PN), Acciaio strutturale, Corten, Pietra Piasentina, Dimensioni cm: 400 , 2017",
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/IMG_7813.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/IMG_7813.JPG"
+            },
+            {
+                "name": "MONUMENTO AI CADUTI DELLA POLIZIA DI STATO, Cusano di Zoppola (PN), Acciaio strutturale, Corten, Pietra Piasentina, Dimensioni cm: 400 , 2017",
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/IMG_7818.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/IMG_7818.JPG"
+            },
+            {
+                "name": "MONUMENTO AI CADUTI DELLA POLIZIA DI STATO, Cusano di Zoppola (PN), Acciaio strutturale, Corten, Pietra Piasentina, Dimensioni cm: 400 , 2017",
+                "lowPath": "../images/gallery_low/installazioni/poliziotti/DSC_6338.JPG",
+                "highPath": "../images/gallery/installazioni/poliziotti/DSC_6338.JPG"
             }
         ]
     }

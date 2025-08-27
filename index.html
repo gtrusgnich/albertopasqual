@@ -13,6 +13,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
+
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/IC_LOGO.png" />
     <title>Alberto Pasqual</title>
 </head>
@@ -29,8 +31,17 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="/index.html">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="pages/gallery.html">Gallery</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle " href="pages/gallery.html" data-bs-toggle="dropdown"
+                            aria-expanded="false">Gallery</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="pages/gallery.html#Ferro">Ferro</a></li>
+                            <li><a class="dropdown-item" href="pages/gallery.html#Lamiera">Lamiera</a></li>
+                            <li><a class="dropdown-item" href="pages/gallery.html#Quadri Materici">Quadri Materici</a></li>
+                            <li><a class="dropdown-item" href="pages/gallery.html#Plastiche">Plastiche</a></li>
+                            <li><a class="dropdown-item" href="pages/gallery.html#Grafica">Grafica</a></li>
+                            <li><a class="dropdown-item" href="pages/gallery.html#Installazioni">Installazioni</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link " href="pages/contatti.html">Contatti</a>
@@ -48,23 +59,19 @@
             </div>
         </div>
     </nav>
+       
     <div id="carouselExampleSlidesOnly" class="carousel fade ap_absoluteFrame" data-bs-ride="carousel"
         style="min-height: 100vh; z-index: -99;">
         <div class="carousel-inner" style="height:100%;">
-            <div class="carousel-item active w-100 h-100"
-                style="background-image: url(images/HOME_1_bassa-min.jpg);">
+            <div class="carousel-item active w-100 h-100" style="background-image: url(images/HOME_1_bassa-min.jpg);">
             </div>
-            <div class="carousel-item  w-100 h-100"
-                style="background-image: url(images/HOME_2_bassa-min.jpg);">
+            <div class="carousel-item  w-100 h-100" style="background-image: url(images/HOME_2_bassa-min.jpg);">
             </div>
-            <div class="carousel-item w-100 h-100"
-                style="background-image: url(images/HOME_3_bassa-min.jpg);">
+            <div class="carousel-item w-100 h-100" style="background-image: url(images/HOME_3_bassa-min.jpg);">
             </div>
-            <div class="carousel-item w-100 h-100"
-                style="background-image: url(images/HOME_4_bassa-min.jpg);">
+            <div class="carousel-item w-100 h-100" style="background-image: url(images/HOME_4_bassa-min.jpg);">
             </div>
-            <div class="carousel-item w-100 h-100"
-                style="background-image: url(images/HOME_5_bassa-min.jpg);">
+            <div class="carousel-item w-100 h-100" style="background-image: url(images/HOME_5_bassa-min.jpg);">
             </div>
         </div>
     </div>
@@ -79,8 +86,7 @@
         <div class="ap_scrollDown_icon d-flex flex-column align-items-center"
             style="color:white; position: absolute; bottom: 0;">
             <span>SELECTED WORKS</span>
-            <i id="chevron_down" class="bi bi-chevron-compact-down"
-                style="font-size: xx-large;"></i>
+            <i id="chevron_down" class="bi bi-chevron-compact-down" style="font-size: xx-large;"></i>
         </div>
     </div>
 
@@ -104,18 +110,19 @@
         <div class="ap_portfolio-item">
             <img src="images/SW_Home_2.jpg">
             <p>
-                “... e nel frattempo il lavoro quotidiano svolto con certosina dedizione completava e affinava un mestiere
-                    che ci ha consegnato uno dei più sapienti manipolatori del ferro che il panorama italiano abbia mai
-                    presentato.”
-                    <br>
-                    <br>
-                    Giovanni Granzotto
-                    <br>
-                    dal catalogo “Parlando della Materia”
-                    <br>
-                    mostra personale 2015
-                    <br>
-                    Studio Arte GR
+                “... e nel frattempo il lavoro quotidiano svolto con certosina dedizione completava e affinava un
+                mestiere
+                che ci ha consegnato uno dei più sapienti manipolatori del ferro che il panorama italiano abbia mai
+                presentato.”
+                <br>
+                <br>
+                Giovanni Granzotto
+                <br>
+                dal catalogo “Parlando della Materia”
+                <br>
+                mostra personale 2015
+                <br>
+                Studio Arte GR
             </p>
         </div>
         <div class="ap_portfolio-item">
@@ -148,7 +155,8 @@
             <img src="images/SW_Home_5.jpg">
             <p>
                 “... alcune idee cardine... si ripropongono variazioni di dimensioni e colori, non solo nei corpi solidi
-                della scultura, ma anche in bassorilievi rossi di ruggine, nei neri delle polveri di ferro depositate su carte
+                della scultura, ma anche in bassorilievi rossi di ruggine, nei neri delle polveri di ferro depositate su
+                carte
                 preziose, in disegni metallici, schizzati a punta di matita o di penne a biro...”
                 <br>
                 <br>
