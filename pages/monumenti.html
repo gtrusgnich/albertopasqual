@@ -82,9 +82,14 @@
 
                 var block = "";
                 el["images"].forEach(opera => {
+
+                    if(opera.more) {
+                        fullDesc = `${opera.more}, ${fullDesc}`
+                    }
+
                     var id = opera["highPath"].split('/').at(-1).split('.').at(0);
                     block += `
-                        <a href="${opera["highPath"]}" data-lightbox="lightbox"  data-title="${fullDesc}">
+                        <a href="${opera["highPath"]}" data-lightbox="lightbox" data-title="${fullDesc}">
                             <div id="${id}" class="img_name_mobile"><span>${fullDesc}</span></div>
                             <img class="img-fluid" src="${opera["lowPath"]}">
                         </a>

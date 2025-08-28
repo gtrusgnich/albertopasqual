@@ -136,7 +136,7 @@
     {
         "title": "PIERPAOLO PASOLINI",
         "description": "Targa in bronzo a ricordo di Pasolini a 40 anni dalla morte",
-        "location": "SAcile (PN), casa in cui ha abitato dal 1929 al 1932",
+        "location": "Sacile (PN), casa in cui ha abitato dal 1929 al 1932",
         "materials": "",
         "size": "36cm x 50cm",
         "year": "2015",
@@ -176,6 +176,7 @@
                 "highPath": "../images/gallery/installazioni/poliziotti/IMG_7818.JPG"
             },
             {
+                "more": "Inaugurazione alla presenza del prefetto Gabrielli",
                 "lowPath": "../images/gallery_low/installazioni/poliziotti/DSC_6338.JPG",
                 "highPath": "../images/gallery/installazioni/poliziotti/DSC_6338.JPG"
             }
