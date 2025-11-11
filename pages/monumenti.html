@@ -38,6 +38,7 @@
                             <li><a class="dropdown-item" href="gallery.html#Quadri Materici">Quadri Materici</a></li>
                             <li><a class="dropdown-item" href="gallery.html#Plastiche">Plastiche</a></li>
                             <li><a class="dropdown-item" href="gallery.html#Grafica">Grafica</a></li>
+                            <li><a class="dropdown-item" href="gallery.html#Archivi">Archivi</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -71,11 +72,11 @@
             data.forEach(el => {
 
                 let infos = [];
-                if(el.description) infos.push(el.description);
-                if(el.location) infos.push(el.location);
-                if(el.materials) infos.push(el.materials);
-                if(el.size) infos.push(el.size);
-                if(el.year) infos.push(el.year);
+                if (el.description) infos.push(el.description);
+                if (el.location) infos.push(el.location);
+                if (el.materials) infos.push(el.materials);
+                if (el.size) infos.push(el.size);
+                if (el.year) infos.push(el.year);
 
                 let fullDesc = infos.join(", ");
 
@@ -83,7 +84,7 @@
                 var block = "";
                 el["images"].forEach(opera => {
 
-                    if(opera.more) {
+                    if (opera.more) {
                         fullDesc = `${opera.more}, ${fullDesc}`
                     }
 
