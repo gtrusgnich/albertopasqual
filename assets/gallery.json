@@ -373,83 +373,80 @@
         "key": "Archivi",
         "opere": [
             {
-                "name":"ARCHIVI 1 Tecnica Mista Su Carta 106X79 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 1_TecnicaMistasuCarta_106X79_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 1_TecnicaMistasuCarta_106X79_2023.jpg"
+                "name": "ARCHIVI 1 Tecnica Mista Su Carta 106X79 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 1_TecnicaMistasuCarta_106X79_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 1_TecnicaMistasuCarta_106X79_2023.jpg"
             },
             {
-                "name":"ARCHIVI 2  Tecnica Mista Su Carta 49X38 2024",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 2_TecnicaMistasuCarta_49X38_2024.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 2_TecnicaMistasuCarta_49X38_2024.jpg"
+                "name": "ARCHIVI 2  Tecnica Mista Su Carta 49X38 2024",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 2_TecnicaMistasuCarta_49X38_2024.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 2_TecnicaMistasuCarta_49X38_2024.jpg"
             },
             {
-                "name":"ARCHIVI 3 Tecnica Mista Su Carta 53,5X51 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 3_TecnicaMistasuCarta_53,5X51_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 3_TecnicaMistasuCarta_53,5X51_2023.jpg"
+                "name": "ARCHIVI 3 Tecnica Mista Su Carta 53,5X51 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 3_TecnicaMistasuCarta_53,5X51_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 3_TecnicaMistasuCarta_53,5X51_2023.jpg"
             },
             {
-                "name":"ARCHIVI 4  Tecnica Mista Su Carta 53X50 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 4_TecnicaMistasuCarta_53X50_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 4_TecnicaMistasuCarta_53X50_2023.jpg"
+                "name": "ARCHIVI 4  Tecnica Mista Su Carta 53X50 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 4_TecnicaMistasuCarta_53X50_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 4_TecnicaMistasuCarta_53X50_2023.jpg"
             },
             {
-                "name":"ARCHIVI 5 Tecnica Mista Su Carta 53X51 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 5_TecnicaMistasuCarta_53X51_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 5_TecnicaMistasuCarta_53X51_2023.jpg"
+                "name": "ARCHIVI 5 Tecnica Mista Su Carta 53X51 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 5_TecnicaMistasuCarta_53X51_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 5_TecnicaMistasuCarta_53X51_2023.jpg"
             },
             {
-                "name":"ARCHIVI 6 Tecnica Mista Su Carta 74X126 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 6_TecnicaMistasuCarta_74X126_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 6_TecnicaMistasuCarta_74X126_2023.jpg"
+                "name": "ARCHIVI 6 Tecnica Mista Su Carta 74X126 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 6_TecnicaMistasuCarta_74X126_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 6_TecnicaMistasuCarta_74X126_2023.jpg"
             },
             {
-                "name":"ARCHIVI 7 Tecnica Mista Su Carta 104X84 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 7_TecnicaMistasuCarta_104X84_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 7_TecnicaMistasuCarta_104X84_2023.jpg"
+                "name": "ARCHIVI 7 Tecnica Mista Su Carta 104X84 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 7_TecnicaMistasuCarta_104X84_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 7_TecnicaMistasuCarta_104X84_2023.jpg"
             },
             {
-                "name":"ARCHIVI 8 Tecnica Mista Su Carta 104X193 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 8_TecnicaMistasuCarta_104X193_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 8_TecnicaMistasuCarta_104X193_2023.jpg"
+                "name": "ARCHIVI 8 Tecnica Mista Su Carta 104X193 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 8_TecnicaMistasuCarta_104X193_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 8_TecnicaMistasuCarta_104X193_2023.jpg"
             },
             {
-                "name":"ARCHIVI 9 Tecnica Mista Su Carta 106,5X110 2024",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 9_TecnicaMistasuCarta_106,5X110_2024.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 9_TecnicaMistasuCarta_106,5X110_2024.jpg"
+                "name": "ARCHIVI 9 Tecnica Mista Su Carta 106,5X110 2024",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 9_TecnicaMistasuCarta_106,5X110_2024.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 9_TecnicaMistasuCarta_106,5X110_2024.jpg"
             },
             {
-                "name":"ARCHIVI 10 Tecnica Mista Su Carta 106X79 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 10_TecnicaMistasuCarta_106X79_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 10_TecnicaMistasuCarta_106X79_2023.jpg"
+                "name": "ARCHIVI 10 Tecnica Mista Su Carta 106X79 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 10_TecnicaMistasuCarta_106X79_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 10_TecnicaMistasuCarta_106X79_2023.jpg"
             },
             {
-                "name":"ARCHIVI 11 Tecnica Mista Su Carta 106X87 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 11_TecnicaMistasuCarta_106X87_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 11_TecnicaMistasuCarta_106X87_2023.jpg"
+                "name": "ARCHIVI 11 Tecnica Mista Su Carta 106X87 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 11_TecnicaMistasuCarta_106X87_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 11_TecnicaMistasuCarta_106X87_2023.jpg"
             },
             {
-                "name":"ARCHIVI 12 Tecnica Mista Su Carta 107X81 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 12_TecnicaMistasuCarta_107X81_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 12_TecnicaMistasuCarta_107X81_2023.jpg"
+                "name": "ARCHIVI 12 Tecnica Mista Su Carta 107X81 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 12_TecnicaMistasuCarta_107X81_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 12_TecnicaMistasuCarta_107X81_2023.jpg"
             },
             {
-                "name":"ARCHIVI 13 Tecnica Mista Su Carta 203X105 2023",
-                "lowPath":"../images/gallery_low/archivi/ARCHIVI 13_TecnicaMistasuCarta_203X105_2023.jpg",
-                "highPath":"../images/gallery/archivi/ARCHIVI 13_TecnicaMistasuCarta_203X105_2023.jpg"
+                "name": "ARCHIVI 13 Tecnica Mista Su Carta 203X105 2023",
+                "lowPath": "../images/gallery_low/archivi/ARCHIVI 13_TecnicaMistasuCarta_203X105_2023.jpg",
+                "highPath": "../images/gallery/archivi/ARCHIVI 13_TecnicaMistasuCarta_203X105_2023.jpg"
+            }
+        ]
+    },
+    {
+        "key": "Arte Sacra",
+        "opere": [
+            {
+                "name": "Catalogo Cristo 15x21",
+                "lowPath": "../assets/CATALOGO_CRISTO_15X21.pdf",
+                "highPath": "../assets/CATALOGO_CRISTO_15X21.pdf"
             }
         ]
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
